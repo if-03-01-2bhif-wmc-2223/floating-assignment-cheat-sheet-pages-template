@@ -19,3 +19,8 @@ To achieve this goal, the following preparations are required:
   - you can see the branch 'gh-pages'
   - switch to that branch and see if your latest changes in 'index.html' are available on this branch
 - Your web page should be accessible via URL ```https://if-03-01-2bhif-wmc-2223.github.io/<name-of-your-repo>``` after a while
+- Check if Github pages are enabled
+- 
+
+## Important:
+Your repository MUST be public (and is therefore readable by anyone) to make it accessible via Github pages.
