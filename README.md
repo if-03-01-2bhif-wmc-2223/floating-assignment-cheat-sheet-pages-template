@@ -18,7 +18,7 @@ To achieve this goal, the following preparations are required:
 -__!Check on Github (via browser)__ if
   - you can see the branch 'gh-pages'
   - switch to that branch and see if your latest changes in 'index.html' are available on this branch ![GH branches](./assets/github-branches.png "Branches")
-- Your web page should be accessible via URL ```https://if-03-01-2bhif-wmc-2223.github.io/<name-of-your-repo>``` after a while
+- Your web page should be accessible via URL ```https://if-03-01-2bhif-wmc-2223.github.io/<name-of-your-repo>```, e.g. [Template Repository Page](https://if-03-01-2bhif-wmc-2223.github.io/floating-assignment-cheat-sheet-pages-template/) after a while
 - Check if Github pages are enabled
   - Deployment is on the way: ![queued deployment](./assets/github-pages-queued.png "Deployment queued")
   - Deployment can be accessed via URL: ![active deployment](./assets/github-pages-active.png "Deployment active")
